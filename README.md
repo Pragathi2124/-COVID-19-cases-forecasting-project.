@@ -1,4 +1,4 @@
-# COVID-19-cases-forecasting-project
+# COVID_19_cases_forecasting_project
 ## **COVID-19 Daily Confirmed Cases Forecasting using ARIMA**
 
 ### **Project Overview**
