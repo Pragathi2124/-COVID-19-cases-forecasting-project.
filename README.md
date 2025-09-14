@@ -1,7 +1,7 @@
 # COVID-19-cases-forecasting-project
-##**COVID-19 Daily Confirmed Cases Forecasting using ARIMA**
+## **COVID-19 Daily Confirmed Cases Forecasting using ARIMA**
 
-###**Project Overview**
+### **Project Overview**
 This project focuses on time series analysis and forecasting of daily new confirmed COVID-19 cases in the US. The primary goal is to build and evaluate an ARIMA (AutoRegressive Integrated Moving Average) model to predict future daily cases. The project involves extensive data cleaning and preparation, exploratory data analysis to identify trends and seasonality, and rigorous hyperparameter tuning to find the optimal ARIMA model.
 
 **Dataset 📊**
